@@ -3,4 +3,8 @@
     <string name="order">Order</string>
     <string name="add">+</string>
     <string name="remove">-</string>
+    <string name="toppings">TOPPINGS</string>
+    <string name="quantity">QUANTITY</string>
+    <string name="WhippedCream">Whipped cream</string>
+    <string name="Chocolate">Chocolate</string>
 </resources>
